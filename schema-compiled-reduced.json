@@ -1,0 +1,2029 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "answer": {
+      "anyOf": [
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010300"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010310"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010320"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010330"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010340"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010200"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010210"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010220"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010100"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010110"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010120"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "minLength": 1,
+          "additionalItems": false,
+          "items": {
+            "anyOf": [
+              {
+                "const": "DEI010000"
+              },
+              {
+                "const": "DEI010199"
+              },
+              {
+                "const": "DEI010299"
+              },
+              {
+                "const": "DEI010399"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "required": [
+    "answer"
+  ]
+}
